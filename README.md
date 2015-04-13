@@ -15,23 +15,32 @@ for question B:
 
 SIZE=1000
 
-sort(): 0 seconds\n
+sort(): 0 seconds
+
 v1/v2 are different.
+
 insertion_sort(): 0.01 seconds
+
 v1/v2 are the same.
 
 SIZE=10000
 
 sort(): 0 seconds
+
 v1/v2 are different.
+
 insertion_sort(): 1.27 seconds
+
 v1/v2 are the same.
 
 SIZE=100000
 
 sort(): 0.04 seconds
+
 v1/v2 are different.
+
 insertion_sort(): 128.57 seconds
+
 v1/v2 are the same.
 
 
